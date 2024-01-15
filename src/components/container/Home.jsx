@@ -34,8 +34,8 @@ const Home = () => {
             This is <br /> the new way <br /> to learn online
           </div>
           <p className="text-sm leading-7 text-gray max-w-sm">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero
-            officia sit vitae quo, eum similique?
+          Dive into a world of limitless knowledge, discover the joy of learning,
+           and embark on an exciting journey of discovery with us.
           </p>
           <div className="mt-6">
             <button className="px-6 py-3 font-bold text-white bg-Teal rounded-lg mr-4 text-sm">
